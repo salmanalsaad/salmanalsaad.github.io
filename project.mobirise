@@ -305,7 +305,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/upload-2ic4l12gth5un4qkkn2db5ij65970469-final-1000x422.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -319,6 +319,23 @@
                 "contentAlign": "left",
                 "text": "اهلا  بكم في موقع الدكتور سلمان السعد&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"index.html#gallery1-1l\" data-toolbar=\"-mbrBtnMove\">&nbsp;الجلدية والتجميل</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"index.html#content6-8\" data-toolbar=\"-mbrBtnMove\">الدوالي</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/man-personal-man-woman-1600x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "عروق اليد البارزة",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "لا داعي لاخفاء يديك بعد الان<br>بالامكان علاج بروز عروق اليدين",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" href=\"index.html#slider2-1h\" data-toolbar=\"-mbrBtnMove\">شاهد النتائح<br></a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/vein-care-3-700x460.jpg",
@@ -336,23 +353,6 @@
                 "contentAlign": "right",
                 "text": "لاداعي لاستمرار معاناتك مع دوالي الساقين ، استعد صحة وحيوية الشباب&nbsp;<br>وتمتع بصحة ونشاط",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-info\" href=\"index.html#content6-8\" data-toolbar=\"-mbrBtnMove\">تعرف على المزيد<br></a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/man-personal-man-woman-1600x1200.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "عروق اليد البارزة",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "لا داعي لاخفاء يديك بعد الان<br>بالامكان علاج بروز عروق اليدين",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" href=\"index.html#slider2-1h\" data-toolbar=\"-mbrBtnMove\">شاهد النتائح<br></a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/telangiectasiaface-1500x1000.jpg",
