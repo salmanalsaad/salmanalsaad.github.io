@@ -1955,7 +1955,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/fullsizerender-1458x2048.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hand-rejuvenation3-166x164.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1972,7 +1972,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/fullsizerender-2-1424x2048.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hand-rejuvenation3-2-166x138.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -2279,8 +2279,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/telangectasia-1-445x309.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/face-before-and-after-264x202.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2296,8 +2296,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/telangectasia-2-337x244.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/face-before-and-after-2-256x173.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
